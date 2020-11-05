@@ -1,0 +1,7 @@
+C:\Users\Phil\source\repos\CSH1_Tag_08_Aufgabe_01\CSH1_Tag_08_Aufgabe_01\bin\Debug\CSH1_Tag_08_Aufgabe_01.exe.config
+C:\Users\Phil\source\repos\CSH1_Tag_08_Aufgabe_01\CSH1_Tag_08_Aufgabe_01\bin\Debug\CSH1_Tag_08_Aufgabe_01.exe
+C:\Users\Phil\source\repos\CSH1_Tag_08_Aufgabe_01\CSH1_Tag_08_Aufgabe_01\bin\Debug\CSH1_Tag_08_Aufgabe_01.pdb
+C:\Users\Phil\source\repos\CSH1_Tag_08_Aufgabe_01\CSH1_Tag_08_Aufgabe_01\obj\Debug\CSH1_Tag_08_Aufgabe_01.csprojAssemblyReference.cache
+C:\Users\Phil\source\repos\CSH1_Tag_08_Aufgabe_01\CSH1_Tag_08_Aufgabe_01\obj\Debug\CSH1_Tag_08_Aufgabe_01.csproj.CoreCompileInputs.cache
+C:\Users\Phil\source\repos\CSH1_Tag_08_Aufgabe_01\CSH1_Tag_08_Aufgabe_01\obj\Debug\CSH1_Tag_08_Aufgabe_01.exe
+C:\Users\Phil\source\repos\CSH1_Tag_08_Aufgabe_01\CSH1_Tag_08_Aufgabe_01\obj\Debug\CSH1_Tag_08_Aufgabe_01.pdb

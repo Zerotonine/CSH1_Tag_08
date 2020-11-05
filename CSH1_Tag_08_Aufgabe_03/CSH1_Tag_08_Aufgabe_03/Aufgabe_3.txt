@@ -1,0 +1,13 @@
+/*
+ Schreiben Sie bitte ein C#-Programm, in dem ...
+ - eine Struktur "Angestellter" eingeführt wird
+   + mit den Strukturkomponenten ID, Nachname und Gehalt
+ - 2 Funktionen eingeführt werden
+   a) fülleAngestellter(), die (per Call by Reference) eine Strukturkomponente vom Typ Angestellter füllt
+      + Übergabewerte: Referenz auf eine Strukturvariable vom Typ Angestellter/ID/Nachname/Gehalt
+      + Rückgabewerte: keine
+   b) ausgabeAngestellter(), die (per Call by Value) alle Strukturkomponentwerte auf der Konsole ausgibt
+      + Übergabewert: Strukturvariable
+      + Rückgabewerte: keine
+ - im Main() die beiden Funktionen durch Aufruf getestet werden
+*/

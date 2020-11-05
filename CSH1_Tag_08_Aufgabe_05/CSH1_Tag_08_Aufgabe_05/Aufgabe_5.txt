@@ -1,0 +1,27 @@
+﻿/* Schreiben Sie folgendes C# Programm:
+ * Sie brauchen ein Programm, welches Messwerte vom Benutzer abfragt und in eine Liste speichert.
+ * 
+ * Führen Sie dazu eine Struktur "Messung" ein mit den Attributen
+ *  - Bezeichnung als String, WertA als Integer, WertB als Double und Datum als DateTime
+ * 
+ * In der Klasse Program erstellen Sie eine Liste vom Typ der Struktur
+ * und zeigen dem Benutzer in einer Schleife ein Menü mit den Auswahlmöglichkeiten
+ *  "1 - Messung eingeben"
+ *  "2 - Messungen ausgeben"
+ *  "ESC - Beenden"
+ * 
+ * In einer Switch-Anweisung prüfen Sie die Auswahl des Benutzers und rufen entsprechend die Methoden
+ * "Eingabe" und "Ausgabe" auf.
+ * Die Schleife läuft, bis der Benutzer die Auswahl zum Beenden getroffen hat.
+ * 
+ * Über die Eingabe-Methode gibt der Benutzer nacheinander Bezeichnung, WertA und WertB ein 
+ * mit Wiederholung bei Fehleingabe. Das Datum wird auf das aktuelle Datum gesetzt.
+ * Die Werte werden in einer Variable der Struktur gespeichert.
+ * Sie können die Methode entweder als Call-By-Reference oder mit Return lösen.
+ * Anschließend wird die Strukturvariable in die Liste eingefügt.
+ * 
+ * Wählt der Benutzer die Ausgabe und sind noch keine Einträge in der Liste,
+ * so wird ihm dies über eine entsprechende Meldung mitgeteilt.
+ * Sonst werden die Einträge auf dem Bildschirm ausgegeben.
+ * 
+ */
